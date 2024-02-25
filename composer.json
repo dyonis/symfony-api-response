@@ -1,0 +1,17 @@
+{
+    "name": "dyonis/symfony-api-response",
+    "autoload": {
+        "psr-4": {
+            "Dyonis\\ApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shpuhanych Denys"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "symfony/http-foundation": "^v7.0"
+    }
+}
