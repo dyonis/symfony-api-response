@@ -1,15 +1,17 @@
 {
     "name": "dyonis/symfony-api-response",
-    "autoload": {
-        "psr-4": {
-            "Dyonis\\Symfony\\": "src/"
-        }
-    },
+    "description": "Symfony API Response component",
     "authors": [
         {
             "name": "Shpuhanych Denys"
         }
     ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dyonis\\Symfony\\": "src/"
+        }
+    },
     "require": {
         "php": ">=7.0",
         "symfony/http-foundation": "^v7.0"
