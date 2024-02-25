@@ -2,7 +2,7 @@
     "name": "dyonis/symfony-api-response",
     "autoload": {
         "psr-4": {
-            "Dyonis\\ApiResponse\\": "src/"
+            "Dyonis\\Symfony\\": "src/"
         }
     },
     "authors": [

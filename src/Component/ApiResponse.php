@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Components;
+namespace Dyonis\Symfony\Component;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 
